@@ -5,8 +5,8 @@
 
 a:link {
     color:#a77313;
-    /* text-decoration: underline;
-    cursor: auto; */
+    text-decoration: underline;
+    cursor: auto;
   }
   
   a:link:active, a:visited:active {
