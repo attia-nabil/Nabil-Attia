@@ -2,3 +2,13 @@
 {
     --skin-color:#fa5b0f;
 }
+
+a:link {
+    color:#fa5b0f;
+    /* text-decoration: underline; */
+    /* cursor: auto; */
+  }
+  
+  a:link:active, a:visited:active {
+    color: (internal value);
+  }
