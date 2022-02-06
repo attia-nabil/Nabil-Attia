@@ -3,7 +3,7 @@
     --skin-color:#fa5b0f;
 }
 
-a:link {
+a:link, a:visited {
     color:#fa5b0f;
     /* text-decoration: underline; */
     /* cursor: auto; */

@@ -3,7 +3,7 @@
     --skin-color:#1854b4;
 }
 
-a:link {
+a:link , a:visited{
     color:#1854b4;
     /* text-decoration: underline; */
     /* cursor: auto; */
