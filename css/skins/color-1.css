@@ -18,3 +18,8 @@ a:link, a:visited{
     border-color: #ffffff;
     color: #ffffff;
   } */
+  
+  ::-webkit-scrollbar-thumb
+{
+    background-color: rgb(129, 88, 38);
+}
