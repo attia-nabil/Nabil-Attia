@@ -1,10 +1,10 @@
 :root
 {
-    --skin-color:#fa5b0f;
+    --skin-color:#a77313;
 }
 
 a:link, a:visited {
-    color:#fa5b0f;
+    color:#a77313;
     /* text-decoration: underline; */
     /* cursor: auto; */
   }
@@ -15,5 +15,5 @@ a:link, a:visited {
 
   ::-webkit-scrollbar-thumb
   {
-      background-color: #fa5b0f;
+      background-color: #a77313;
   }
